@@ -2,6 +2,9 @@
     "folders": [
         {
             "path": "."
+        },
+        {
+            "path": "../Online_Course_Marketplace/src"
         }
     ]
 }
